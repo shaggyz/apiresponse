@@ -1,6 +1,6 @@
 {
     "name": "canduter/apiresponse",
-    "description": "Class to generate standarized responses for json responses",
+    "description": "Class to generate a standarized structure for json responses",
     "authors": [
         {
             "name": "Jaime Ramírez Castillo",
