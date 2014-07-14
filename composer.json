@@ -1,0 +1,22 @@
+{
+    "name": "canduter/apiresponse",
+    "description": "Class to generate standarized responses for json responses",
+    "authors": [
+        {
+            "name": "Jaime Ramírez Castillo",
+            "email": "jaime.ram@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Canduter\\Apiresponse": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
